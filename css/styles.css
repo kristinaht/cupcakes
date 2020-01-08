@@ -1,0 +1,18 @@
+.flashy {
+    color: red;
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(218, 203, 203);
+}
+
+.best {
+    display: block;
+    margin: auto;
+
+}
+
+.flashy1 {
+    text-align: center;
+}
